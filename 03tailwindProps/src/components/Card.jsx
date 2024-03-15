@@ -14,7 +14,7 @@ function Card( {username ,btn="click here"} ) {
                 <h1 className="text-lg font-semibold text-white">{username}</h1>
                 <p className="mt-2 text-sm text-gray-300">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi,
-                debitis?
+                debitis? Tesing
                 </p>
                 <button className="mt-2 inline-flex cursor-pointer items-center text-sm font-semibold text-white">
                 View Profile {btn} →
